@@ -82,4 +82,4 @@ The pipeline is built using Object-Oriented Programming (OOP) principles with se
 **device_summary.csv**: device, avg_utilization, max_utilization, error_count
 
 ## Analytics dashboard
-<img src='./outputs/analytics_dashboard.png>
+<img src='./outputs/analytics_dashboard.png'>

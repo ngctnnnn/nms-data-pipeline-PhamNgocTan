@@ -1,0 +1,9 @@
+ts,device,site,vendor,role,ifName,util_in,util_out,oper_status,syslog_severity,syslog_msg
+2025-01-15T08:00:00Z,edge-r1,SITE-A,Cisco,router,gi0/1,67.0,45.0,1,ERROR,Interface gi0/2 down
+2025-01-15T08:00:00Z,edge-r1,SITE-A,Cisco,router,gi0/2,12.0,78.0,2,ERROR,Interface gi0/2 down
+2025-01-15T08:00:00Z,core-sw1,SITE-B,Arista,switch,et1,55.0,60.0,1,,
+2025-01-15T08:05:00Z,edge-r1,SITE-A,Cisco,router,gi0/1,72.0,50.0,1,ERROR,Interface gi0/2 down
+2025-01-15T08:05:00Z,edge-r1,SITE-A,Cisco,router,gi0/2,15.0,82.0,2,ERROR,Interface gi0/2 down
+2025-01-15T08:10:00Z,fw1,DC1,Fortinet,firewall,eth0,30.0,25.0,1,WARN,High CPU detected
+2025-01-15T08:10:00Z,core-sw1,SITE-B,Arista,switch,et1,60.0,65.0,1,WARN,High utilization on et1
+2025-01-15T08:15:00Z,edge-r2,SITE-A,Cisco,router,gi0/1,45.0,35.0,1,,

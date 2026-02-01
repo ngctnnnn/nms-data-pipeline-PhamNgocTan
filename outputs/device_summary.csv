@@ -1,0 +1,5 @@
+device,avg_utilization,max_utilization,error_count
+core-sw1,60.0,62.5,0
+edge-r1,52.62,61.0,1
+edge-r2,40.0,40.0,0
+fw1,27.5,27.5,1

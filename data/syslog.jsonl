@@ -1,0 +1,5 @@
+{"ts":"2025-01-15T08:05:00Z","device":"edge-r1","severity":"ERROR","message":"Interface gi0/2 down"}
+{"ts":"2025-01-15T08:07:00Z","device":"fw1","severity":"WARN","message":"High CPU detected"}
+{"ts":"2025-01-15T08:12:00Z","device":"fw1","severity":"ERROR","message":"Connection timeout"}
+{"ts":"2025-01-15T08:08:00Z","device":"edge-r1","severity":"INFO","message":"Interface gi0/1 status changed"}
+{"ts":"2025-01-15T08:14:00Z","device":"core-sw1","severity":"WARN","message":"High utilization on et1"}

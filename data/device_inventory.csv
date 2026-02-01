@@ -1,0 +1,6 @@
+device,site,vendor,role
+edge-r1,SITE-A,Cisco,router
+core-sw1,SITE-B,Arista,switch
+fw1,DC1,Fortinet,firewall
+edge-r2,SITE-A,Cisco,router
+core-sw2,SITE-B,Arista,switch

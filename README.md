@@ -2,6 +2,9 @@
 
 A complete ETL/ELT pipeline for network management data demonstrating ingestion, data quality checks, transformation, and analytics.
 
+## Details
+- Test detail is in [test_requirements/Data_Pipeline_Assignment_Network_Data.docx](test_requirements/Data_Pipeline_Assignment_Network_Data.docx)
+
 ## Overview
 
 This pipeline processes three data sources:

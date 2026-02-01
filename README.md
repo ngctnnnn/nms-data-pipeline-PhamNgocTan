@@ -19,6 +19,7 @@ This pipeline processes three data sources:
 
 ```bash
 uv venv nms-pipeline-tanpham-env --python=3.11
+source nms-pipeline-tanpham-env/bin/activate
 uv pip install -r requirements.txt
 ```
 
